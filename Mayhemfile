@@ -1,0 +1,5 @@
+project: jacob-clemente/pemcrack
+target: pemcrack
+
+cmds:
+  - cmd: /pemcrack @@
